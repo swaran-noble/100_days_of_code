@@ -1,7 +1,7 @@
 # 100_days_of_code
 100-days-of-code : The Complete Python Pro Bootcamp
 
-Day 01 : Working with Variables in Python to Manage Data
+Day 01 : Working with Variables in Python to Manage Data \n
 Day 02 : Understanding Data types and how to manipulate strings
 Day 03 : Control Flow and Logic Operators
 Day 04 : Randomisation and Python Lists
