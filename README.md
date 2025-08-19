@@ -46,3 +46,17 @@ Day 21 : Build the SNAKE GAME - Part 2 : Inheritance and List Slicing
 Day 22 : Build PONG - The Famous Arcade Game
 
 Day 23 : The TURTLE CROSSING Capstone Project
+
+Day 24 : Files, Directories and Paths - MAIL MERGE CHALLENGE
+
+Day 25 : Working with CSV Data and the Pandas Library - U.S. STATES GAME
+
+Day 26 : List Comprehension and the NATO ALPHABET PROJECT
+
+Day 27 : Tkinter, *args, **kwargs and Creating GUI Programs - MILE TO KM CONVERTER PROJECT
+
+Day 28 : Tkinter, Dynamic Typing and the POMODORO GUI APPLICATION
+
+Day 29 : Building a PASSWORD MANAGER GUI APP with Tkinter
+
+Day 30 : Errors, Exceptions and JSON Data: Improving the Password Manager App
