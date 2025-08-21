@@ -4,8 +4,8 @@ import random
 import smtplib
 
 # The details are fake. Please use your respective credentials
-MY_EMAIL = "ysnoble@gmail.com"
-MY_PASSWORD = "abcd1234()"
+MY_EMAIL = "catchabreak617@gmail.com"
+MY_PASSWORD = "wwxxcifrmgvnborv"
 
 today = dt.now()
 today_tuple = (today.month, today.day)
@@ -21,7 +21,7 @@ if today_tuple in birthdays_dict:
         contents = letter_file.read()
         replaced_content = contents.replace("[NAME]",birthday_person["name"])
 
-    with smtplib.SMTP("smtp.gmail.com") as connection:
+    with smtplib.SMTP("smtp.gmail.com",587) as connection:
         connection.starttls()
         connection.login(MY_EMAIL,MY_PASSWORD)
         connection.sendmail(
