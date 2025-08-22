@@ -4,7 +4,7 @@ import random
 import smtplib
 
 # The details are fake. Please use your respective credentials
-MY_EMAIL = "catchabreak617@gmail.com"
+MY_EMAIL = "blahblahblah@gmail.com"
 MY_PASSWORD = "wwxxcifrmgvnborv"
 
 today = dt.now()
