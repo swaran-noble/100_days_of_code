@@ -5,8 +5,8 @@ from selenium.common.exceptions import ElementClickInterceptedException
 import time
 
 SIMILAR_ACCOUNT = "fukkard"
-USERNAME = "catch_a.break"
-PASSWORD = "Chinna@617"
+USERNAME = "helloworld"
+PASSWORD = "helloworld123456"
 
 class InstaFollower():
 
