@@ -60,3 +60,63 @@ Day 28 : Tkinter, Dynamic Typing and the POMODORO GUI APPLICATION
 Day 29 : Building a PASSWORD MANAGER GUI APP with Tkinter
 
 Day 30 : Errors, Exceptions and JSON Data: Improving the Password Manager App
+
+Day 31 : Flash Card App Capstone Project
+
+Day 32 : Automated Birthday Wisher
+
+Day 33 : ISS Overhead Notifier
+
+Day 34 : Creating a GUI Quiz App
+
+Day 35 : Send SMS using Python
+
+Day 36 : Stock Trading News Alert Project
+
+Day 37 : Habit Tracker
+
+Day 38 : Workout Tracking using Google Sheets
+
+Day 39 : Flight Deal Finder
+
+Day 40 : Flight Club
+
+Day 41 : Intro to HTML - Movie Ranking
+
+Day 42 : Intermediate HTML - Birthday Invite Website
+
+Day 43 : Intro to CSS - Colour Vocab Website
+
+Day 44 : Intermediate CSS - Motivational Poster Website
+
+Day 45 : Web Scraping with Beautiful Soup - 100 Movies that you must watch
+
+Day 46 : Creating a Spotify Playlist using the Musical Time Machine
+
+Day 47 : Creating an Automated Amazon Price Tracker
+
+Day 48 : Selenium Webdriver Browser and Game Playing Bot
+
+Day 49 : Automating your Exercise Routine at the Gym
+
+Day 50 : Auto Tinder Swiping Bot
+
+Day 51 : Internet Speed Twitter Compliant Bot
+
+Day 52 : Instagram Follower Bot
+
+Day 53 : Data Entry Job Automation
+
+Day 54 : Introduction to Web Development with Flask
+
+Day 55 : HTML and URL Parsing in Flask and the Higher Lower Game
+
+Day 56 : Rendering HTML/Static files and Using Website Templates
+
+Day 57 : Templating with Jinja in Flask Applications
+
+Day 58 : Web Foundation BootStrap - A StartUp Website for TinDog
+
+Day 59 : Blog Capstone Project Part 2 - Add Styling
+
+Day 60 : Make POST requests with Flask and HTML Forms
